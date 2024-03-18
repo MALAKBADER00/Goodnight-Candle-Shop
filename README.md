@@ -14,5 +14,3 @@ Welcome to the Goodnight Candle Shop project! This is a responsive website proje
 ## How to Use
 
 To view the website, simply open the `index.html` file in your preferred web browser. Explore the different sections to get a feel for the website's layout and functionality.
-
-Thank you for checking out the Goodnight Candle Shop project! If you have any questions or feedback, feel free to reach out. Enjoy browsing our virtual candle selection! 🕯️
