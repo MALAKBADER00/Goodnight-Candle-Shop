@@ -159,7 +159,7 @@ header .hamb,
   height: 100vh;
   padding-top: 260px;
   background-color: var(--color-brown);
-  background-image: url("/img/homebackground.jpg");
+  background-image: url("homebackground.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
